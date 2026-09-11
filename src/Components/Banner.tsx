@@ -5,7 +5,7 @@ const Banner = () => {
     <div className="mt-30 flex-1 md:flex justify-between ">
       <div className="space-y-5">
         {/* Heading */}
-        <h1 className=" text-4xl md:text-6xl font-bold leading-tight text-[#111827">
+        <h1 className=" text-4xl md:text-6xl font-bold leading-tight text-[#111827]">
           Build Your Ideal
           <br />
           <span className="bg-gradient-to-r from-[#FF5722] via-[#E91E63] to-[#7C3AED] bg-clip-text text-transparent">
